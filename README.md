@@ -3,7 +3,7 @@
 #### Type of Application: Responsive Portfolio
 
 #### LINK:
-https://arajis06.github.io/Updated-Portfolio-2/
+https://arajis06.github.io/Portfolio/
 
 ![screenshot](https://user-images.githubusercontent.com/49252572/60228916-35e61980-9862-11e9-8bb6-77a69e64b95c.png)
 
